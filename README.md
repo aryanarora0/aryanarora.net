@@ -1,3 +1,3 @@
 hosting personal website: aryanarora.net
 
-To do: js
+TD: Fix bg, icon, achievements, contact logos 
