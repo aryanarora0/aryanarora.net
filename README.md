@@ -1,3 +1,5 @@
 hosting personal website: aryanarora.net
 
-TD: Fix bg, icon, achievements, contact logos 
+TD: 
+1. contact logos
+2. clear bg 
